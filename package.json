@@ -1,0 +1,33 @@
+{
+  "name": "utils",
+  "version": "0.1.0",
+  "description": "Utility functions for commonly used methods and operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxguy467/utils.git"
+  },
+  "keywords": [
+    "utils",
+    "utility",
+    "utilities",
+    "methods",
+    "operations"
+  ],
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Matthew Hemingway <dpplrdr435@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linuxguy467/utils/issues"
+  },
+  "homepage": "https://github.com/linuxguy467/utils#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
