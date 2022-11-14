@@ -4,11 +4,11 @@ Node.js utilities for commonly used operations
 
 ## Installation
 
-    `npm i -S utils`
+    `npm i -S @novaroma3162/novautils`
 
 ## Usage
 
-    const utils = require('utils');
+    const utils = require('@novaroma3162/novautils');
     const result = utils.titleCase('i am number four');
 
 Output should be `I Am Number Four`

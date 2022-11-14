@@ -1,5 +1,6 @@
 {
-  "name": "utils",
+  "name": "@novaroma3162/novautils",
+  "private": false,
   "version": "0.1.1",
   "description": "Utility functions for commonly used methods and operations",
   "main": "index.js",
@@ -29,5 +30,8 @@
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^10.1.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
