@@ -8,8 +8,8 @@ const utils = require('../index');
 
 describe('#titleCase', () => {
     it('should convert lowercase string to proper case', () => {
-        const res = utils.titleCase('i’m a little tea pot');
-        expect(res).to.equal('I’m A Little Tea Pot');
+        const res = utils.titleCase('i\'m a little tea pot');
+        expect(res).to.equal('I\'m A Little Tea Pot');
     });
 
     it('should convert mixed case string to proper case', () => {
