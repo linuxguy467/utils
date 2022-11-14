@@ -1,7 +1,7 @@
 {
   "name": "@novaroma3162/novautils",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Utility functions for commonly used methods and operations",
   "main": "index.js",
   "scripts": {
