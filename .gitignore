@@ -112,3 +112,4 @@ Icon
  *.ipr
 
  out/
+ coverage/
